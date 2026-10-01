@@ -1,4 +1,3 @@
-```css
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* =========================================================
@@ -1300,8 +1299,3 @@ footer strong {
     animation-iteration-count: 1 !important;
   }
 }
-```
-
-Deze versie gebruikt alleen de bestaande HTML-structuur en ondersteunt ook de `.show`-class die je bestaande JavaScript aan de member-cards toevoegt.
-
-Als je dit plakt als volledige `style.css`, zou je site een veel strakkere **black/silver/gold JDM garage / drift-team uitstraling** moeten krijgen.
